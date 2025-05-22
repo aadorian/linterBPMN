@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "label-required": "error",
+    "start-event-required": "error",
+    "end-event-required": "error",
+    "no-disconnected": "error",
+    "no-gateway-join-fork": "error",
+    "no-duplicate-sequence-flows": "error",
+    "no-untyped-task": "error"
+  }
+}
